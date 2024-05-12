@@ -26,11 +26,11 @@ header, .project:not(:last-child) {
 
 body{
   /* background-color: rgba(47, 255, 120, 0.766); */
-  background-image: linear-gradient(180deg,orange,white,green,grey);
+  background-image: linear-gradient(180deg,rgb(49, 207, 49), grey, rgb(49, 207, 49));
 }
 
 .header {
-  color: rgb(213, 102, 22)
+  color: white
 }
 
 h1 {
