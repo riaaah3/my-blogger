@@ -13,8 +13,11 @@ anything from opinions, thoughts, current news and more.
 ## Installation
 
 To utilize this website
-a user has to either "Sign Up" for an account
+a user will click the "login" button
+located in the top right corner of the main page.
+A user has to either "Sign Up" for an account
 or they are able to "Login" to their existing account.
+
 Note ** If users have already created an account
 they will not be able to Sign Up for an account with those same credentials.
 
